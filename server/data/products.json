@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "name": "Nike Air Jordan 1",
+    "price": 12500,
+    "oldPrice": 15000,
+    "category": "Shoes",
+    "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?w=800",
+    "description": "Premium Nike Air Jordan 1 sneakers",
+    "stock": 10,
+    "isBestSeller": true,
+    "rating": 4.8,
+    "reviews": 120
+  },
+  {
+    "id": "2",
+    "name": "Nike Hoodie",
+    "price": 6500,
+    "oldPrice": 8500,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+    "description": "Comfortable Nike hoodie",
+    "stock": 15,
+    "isBestSeller": true,
+    "rating": 4.7,
+    "reviews": 85
+  },
+  {
+    "id": "3",
+    "name": "Nike Backpack",
+    "price": 4800,
+    "oldPrice": 6500,
+    "category": "Bags",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800",
+    "description": "Durable Nike backpack",
+    "stock": 8,
+    "isBestSeller": true,
+    "rating": 4.6,
+    "reviews": 72
+  },
+  {
+    "id": "4",
+    "name": "JBL Speaker",
+    "price": 9900,
+    "oldPrice": 12500,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800",
+    "description": "Portable JBL Bluetooth speaker",
+    "stock": 5,
+    "isBestSeller": true,
+    "rating": 4.9,
+    "reviews": 64
+  },
+  {
+    "id": "5",
+    "name": "AirPods Pro",
+    "price": 18500,
+    "oldPrice": 22000,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=800",
+    "description": "Apple AirPods Pro with noise cancellation",
+    "stock": 12,
+    "isBestSeller": true,
+    "rating": 4.8,
+    "reviews": 95
+  }
+]
